@@ -1,0 +1,29 @@
+class Solution
+{
+    public:
+
+        int minimizeSet(int divisor1, int divisor2, int uniqueCnt1, int uniqueCnt2)
+        {
+            long long ans = INT_MAX;
+            long long low = 1;
+            long long high = INT_MAX;
+            while (low <= high)
+            {
+                long long mid = low + (high - low) / 2;	// current value which can be my answer
+                long long a = mid - (mid / divisor1);	// numbers which are not divisible by divisor1
+                long long b = mid - (mid / divisor2);	// numbers which are not divisible by divisor2
+                long long c = mid - (mid / divisor1) - (mid / divisor2) + (mid / ((long long) divisor1 *divisor2 / (__gcd(divisor1, divisor2))));	// numbers which are not divisible by both divisor1 &divisor2 
+                if (a >= uniqueCnt1 && b >= uniqueCnt2 && (a + b - c) >= uniqueCnt1 + uniqueCnt2)
+                {
+                    ans = min(ans, mid);
+                    high = mid - 1;
+                }
+                else
+                {
+                    low = mid + 1;
+                }
+            }
+
+            return ans;
+        }
+};
