@@ -23,3 +23,15 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0648-replace-words) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0633-sum-of-square-numbers) |
+# Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0633-sum-of-square-numbers) |
