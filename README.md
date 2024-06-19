@@ -9,6 +9,7 @@
 | ------- |
 | [0648-replace-words](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1044-find-common-characters) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Hash Table
 |  |
 | ------- |
@@ -35,3 +36,4 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0633-sum-of-square-numbers) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
