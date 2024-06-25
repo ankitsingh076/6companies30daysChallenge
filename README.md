@@ -42,3 +42,19 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1138-grumpy-bookstore-owner) |
+# Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
