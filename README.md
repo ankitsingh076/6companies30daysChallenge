@@ -100,6 +100,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0948-sort-an-array) |
+| [1196-filling-bookcase-shelves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -161,4 +162,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0948-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1196-filling-bookcase-shelves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1196-filling-bookcase-shelves) |
 <!---LeetCode Topics End-->
