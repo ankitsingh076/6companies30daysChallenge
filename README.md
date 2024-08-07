@@ -141,6 +141,7 @@
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0273-integer-to-english-words) |
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -166,4 +167,12 @@
 |  |
 | ------- |
 | [1196-filling-bookcase-shelves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1196-filling-bookcase-shelves) |
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
