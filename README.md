@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0921-spiral-matrix-iii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1293-three-consecutive-odds) |
@@ -125,6 +126,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0921-spiral-matrix-iii) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Tree
 |  |
@@ -175,4 +177,8 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0273-integer-to-english-words) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
