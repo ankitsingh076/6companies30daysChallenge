@@ -93,6 +93,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0948-sort-an-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2379-maximum-total-importance-of-roads) |
 ## Array
@@ -131,6 +132,7 @@
 ## Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
 |  |
@@ -139,6 +141,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## String
 |  |
@@ -181,4 +184,16 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0921-spiral-matrix-iii) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
