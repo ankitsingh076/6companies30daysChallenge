@@ -147,6 +147,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0273-integer-to-english-words) |
+| [0564-find-the-closest-palindrome](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0564-find-the-closest-palindrome) |
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0273-integer-to-english-words) |
+| [0564-find-the-closest-palindrome](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0564-find-the-closest-palindrome) |
 ## Recursion
 |  |
 | ------- |
