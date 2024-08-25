@@ -127,6 +127,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0921-spiral-matrix-iii) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Tree
@@ -151,6 +152,7 @@
 | ------- |
 | [0273-integer-to-english-words](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0564-find-the-closest-palindrome) |
+| [0592-fraction-addition-and-subtraction](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0592-fraction-addition-and-subtraction) |
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -181,6 +183,7 @@
 | ------- |
 | [0273-integer-to-english-words](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0564-find-the-closest-palindrome) |
+| [0592-fraction-addition-and-subtraction](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0592-fraction-addition-and-subtraction) |
 ## Recursion
 |  |
 | ------- |
