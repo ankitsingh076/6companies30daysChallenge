@@ -80,6 +80,7 @@
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -143,6 +145,7 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2035-count-sub-islands) |
 ## Binary Tree
@@ -225,5 +228,6 @@
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
