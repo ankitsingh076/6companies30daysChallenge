@@ -82,6 +82,7 @@
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2379-maximum-total-importance-of-roads) |
+| [2803-modify-graph-edge-weights](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2803-modify-graph-edge-weights) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0948-sort-an-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2379-maximum-total-importance-of-roads) |
+| [2803-modify-graph-edge-weights](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2803-modify-graph-edge-weights) |
 ## Array
 |  |
 | ------- |
@@ -230,4 +232,8 @@
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2035-count-sub-islands) |
+## Shortest Path
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
