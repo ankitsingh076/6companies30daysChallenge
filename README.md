@@ -110,6 +110,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2035-count-sub-islands](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -134,6 +135,7 @@
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0921-spiral-matrix-iii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Tree
 |  |
@@ -202,6 +204,7 @@
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0921-spiral-matrix-iii) |
 | [2035-count-sub-islands](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Design
 |  |
 | ------- |
