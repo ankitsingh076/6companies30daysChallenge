@@ -3,27 +3,28 @@ class Solution
     public:
         ListNode* modifiedList(vector<int> &nums, ListNode *head)
         {
-            unordered_set<int> s;
             int n = nums.size();
+            unordered_set<int> st;
             for (int i = 0; i < n; i++)
             {
-                s.insert(nums[i]);
+                st.insert(nums[i]);
             }
-            ListNode *ans = head;
-            while (ans != NULL && s.find(ans->val) != s.end())
+
+            ListNode *prev = new ListNode();
+            ListNode *temp = new ListNode();
+            prev = temp;
+            ListNode *curr = head;
+
+            while (curr != nullptr)
             {
-                ans = ans->next;	//Check for the head node excusively
-            }
-            head = ans;
-            while (head != NULL && head->next != NULL)
-            {
-                if (s.find(head->next->val) != s.end())
+                if (st.find(curr->val) == st.end())
                 {
-                    head->next = head->next->next;
-                    continue;
+                    temp->next = curr;
+                    temp = temp->next;
                 }
-                head = head->next;
+                curr = curr->next;
             }
-            return ans;
+            temp->next = nullptr;
+            return prev->next;
         }
 };
