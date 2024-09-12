@@ -1,25 +1,27 @@
 class Solution {
 public:
     int countConsistentStrings(string allowed, vector<string>& words) {
-        // Create a vector to mark which characters are allowed
-        vector<bool> isAllowed(26, false);
+        // Create a set to store the allowed characters
+        unordered_set<char> allowedChars;
 
-        // Mark all characters in 'allowed' as true in the isAllowed vector
+        // Populate the set with characters from the 'allowed' string
         for (int i = 0; i < allowed.length(); i++) {
-            isAllowed[allowed[i] - 'a'] = true;
+            allowedChars.insert(allowed[i]);
         }
 
         int consistentCount = 0;
 
-        // Iterate through each word in the words array
+        // Iterate through each word in the 'words' array
         for (string& word : words) {
             bool isConsistent = true;
 
             // Check each character of the current word
             for (int i = 0; i < word.length(); i++) {
-                // If any character is not allowed, mark as inconsistent and
-                // break
-                if (!isAllowed[word[i] - 'a']) {
+                char currentChar = word[i];
+
+                // If the character is not in the allowedChars set, mark as
+                // inconsistent and break
+                if (allowedChars.find(currentChar) == allowedChars.end()) {
                     isConsistent = false;
                     break;
                 }
@@ -31,6 +33,7 @@ public:
             }
         }
 
+        // Return the total count of consistent strings
         return consistentCount;
     }
 };
