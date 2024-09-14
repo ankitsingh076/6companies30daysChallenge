@@ -113,6 +113,7 @@
 | [2035-count-sub-islands](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -236,6 +237,7 @@
 | [0476-number-complement](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Stack
 |  |
 | ------- |
@@ -259,4 +261,8 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
