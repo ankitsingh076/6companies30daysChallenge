@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -179,6 +180,7 @@
 | [0539-minimum-time-difference](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0592-fraction-addition-and-subtraction) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
@@ -201,6 +203,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0948-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
