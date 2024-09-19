@@ -176,6 +176,7 @@
 ## String
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0564-find-the-closest-palindrome) |
@@ -209,10 +210,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [1196-filling-bookcase-shelves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1196-filling-bookcase-shelves) |
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0564-find-the-closest-palindrome) |
@@ -221,6 +224,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0273-integer-to-english-words) |
 ## Matrix
 |  |
@@ -279,4 +283,8 @@
 |  |
 | ------- |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
