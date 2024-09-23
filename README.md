@@ -116,6 +116,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -187,6 +189,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -214,6 +217,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [1196-filling-bookcase-shelves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1196-filling-bookcase-shelves) |
+| [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -306,4 +310,5 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
