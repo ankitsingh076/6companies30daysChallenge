@@ -114,6 +114,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2035-count-sub-islands](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
@@ -188,6 +189,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
 | [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
 ## Divide and Conquer
@@ -212,6 +214,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0948-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -310,5 +313,6 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
