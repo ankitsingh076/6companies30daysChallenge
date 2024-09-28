@@ -105,6 +105,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0539-minimum-time-difference) |
+| [0859-design-circular-deque](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0859-design-circular-deque) |
 | [0921-spiral-matrix-iii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1196-filling-bookcase-shelves) |
@@ -141,6 +142,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -245,6 +247,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -315,4 +318,8 @@
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
