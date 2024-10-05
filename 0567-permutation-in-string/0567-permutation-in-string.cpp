@@ -1,47 +1,27 @@
-class Solution
-{
-    public:
-        bool checkInclusion(string s1, string s2)
-        {
-            int m = s1.length();
-            int n = s2.length();
+class Solution {
+public:
+    bool checkInclusion(string s1, string s2) {
+        int m = s1.size();
+        int n = s2.size();
 
-            unordered_map<char, int> mp1;
-            unordered_map<char, int> mp2;
+        if (m > n) return false; 
 
-            for (int i = 0; i < m; i++)
-            {
-                mp1[s1[i]]++;
-            }
+        vector<int> count1(26, 0);  
+        vector<int> count2(26, 0);  
 
-            mp2 = mp1;
-
-            int i = 0;
-
-            while (i < n)
-            {
-                int j = i;
-
-                while (mp2.find(s2[j]) != mp2.end())
-                {
-                    mp2[s2[j]]--;
-                    if (mp2[s2[j]] == 0)
-                    {
-                        mp2.erase(s2[j]);
-                    }
-                    j++;
-                }
-                if (mp2.size() == 0)
-                {
-                    return true;
-                }
-                else
-                {
-                    mp2 = mp1;
-                    i++;
-                }
-            }
-
-            return false;
+        
+        for (int i = 0; i < m; i++) {
+            count1[s1[i] - 'a']++;
+            count2[s2[i] - 'a']++;
         }
+
+        for (int i = m; i < n; i++) {
+            if (count1 == count2) return true;  
+
+            count2[s2[i] - 'a']++;          
+            count2[s2[i - m] - 'a']--;      
+        }
+
+        return count1 == count2;
+    }
 };
