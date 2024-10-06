@@ -8,8 +8,8 @@ class Solution
                 swap(s1, s2);
             }
 
-            vector<string> vec1;
-            vector<string> vec2;
+            deque<string> deq1;
+            deque<string> deq2;
 
             stringstream ss1(s1);
             stringstream ss2(s2);
@@ -17,29 +17,26 @@ class Solution
 
             while (ss1 >> token)
             {
-                vec1.push_back(token);
+                deq1.push_back(token);
             }
 
             while (ss2 >> token)
             {
-                vec2.push_back(token);
+                deq2.push_back(token);
             }
 
-            int i = 0, j = vec1.size() - 1;
-            int k = 0, l = vec2.size() - 1;
-
-            while (i < vec1.size() && k < vec2.size() && vec1[i] == vec2[k])
+            while (!deq1.empty() && !deq2.empty() && deq1.front() == deq2.front())
             {
-                i++;
-                k++;
+                deq1.pop_front();
+                deq2.pop_front();
             }
 
-            while (l >= k && vec1[j] == vec2[l])
+            while (!deq1.empty() && !deq2.empty() && deq1.back() == deq2.back())
             {
-                j--;
-                l--;
+                deq1.pop_back();
+                deq2.pop_back();
             }
 
-            return l < k;
+            return deq2.empty();
         }
 };
