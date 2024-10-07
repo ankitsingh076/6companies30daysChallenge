@@ -5,24 +5,29 @@ class Solution
         {
             int n = s.length();
 
-            stack<char> st;
+            int i = 0;	//Write
+            int j = 1;	//Read
 
-            for (auto &ch: s)
+            while (j < n)
             {
-
-                if (!st.empty() && ch == 'B' && st.top() == 'A')
+                if (i < 0)
                 {
-                    st.pop();
+                    i++;
+                    s[i] = s[j];
                 }
-                else if (!st.empty() && ch == 'D' && st.top() == 'C')
+                else if ((s[i] == 'A' && s[j] == 'B') ||
+                    (s[i] == 'C' && s[j] == 'D'))
                 {
-                    st.pop();
+                    i--;
                 }
                 else
                 {
-                    st.push(ch);
+                    i++;
+                    s[i] = s[j];
                 }
+
+                j++;
             }
-            return st.size();
+            return i + 1;
         }
 };
