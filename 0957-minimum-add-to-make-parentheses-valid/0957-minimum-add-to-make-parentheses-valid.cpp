@@ -3,18 +3,27 @@ class Solution
     public:
         int minAddToMakeValid(string s)
         {
-            stack<char> st;
+            int open_brackets = 0;
+            int close_brackets = 0;
+
             for (auto &ch: s)
             {
-                if (!st.empty() && ch == ')' && st.top() == '(')
+                if (ch == '(')
                 {
-                    st.pop();
+                    open_brackets++;
                 }
                 else
                 {
-                    st.push(ch);
+                    if (open_brackets > 0)
+                    {
+                        open_brackets--;
+                    }
+                    else
+                    {
+                        close_brackets++;
+                    }
                 }
             }
-            return st.size();
+            return open_brackets + close_brackets;
         }
 };
