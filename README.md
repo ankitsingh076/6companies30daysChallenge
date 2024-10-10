@@ -112,6 +112,7 @@
 | [0859-design-circular-deque](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0859-design-circular-deque) |
 | [0921-spiral-matrix-iii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0948-sort-an-array) |
+| [1002-maximum-width-ramp](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1002-maximum-width-ramp) |
 | [1196-filling-bookcase-shelves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1196-filling-bookcase-shelves) |
 | [1256-rank-transform-of-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1293-three-consecutive-odds) |
@@ -296,6 +297,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Breadth-First Search
@@ -359,4 +361,8 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0567-permutation-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
