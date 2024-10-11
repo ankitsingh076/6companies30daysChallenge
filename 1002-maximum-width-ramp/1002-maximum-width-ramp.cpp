@@ -4,27 +4,27 @@ class Solution
         int maxWidthRamp(vector<int> &nums)
         {
             int n = nums.size();
-            vector<int> maxi(n);
-            maxi[n - 1] = nums[n - 1];
+            vector<int> indices(n);
 
-            for (int i = n - 2; i >= 0; i--)
+            for (int i = 0; i < n; i++)
             {
-                maxi[i] = max(nums[i], maxi[i + 1]);
+                indices[i] = i;
             }
 
-            int i = 0;
-            int j = 0;
+            sort(indices.begin(), indices.end(), [& ](int i, int j)
+            {
+                return nums[i] != nums[j] ? nums[i] < nums[j] : i < j;
+	});
+
+            int mini = INT_MAX;
             int res = 0;
 
-            while (j < n)
+            for (int i = 0; i < n; i++)
             {
-                while (i < j && nums[i] > maxi[j])
-                {
-                    i++;
-                }
-                res = max(res, j - i);
-                j++;
+                res = max(res, indices[i] - mini);
+                mini = min(mini, indices[i]);
             }
+
             return res;
         }
 };
