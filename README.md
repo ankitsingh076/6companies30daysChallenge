@@ -79,6 +79,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Graph
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Heap (Priority Queue)
@@ -104,6 +106,7 @@
 | [0948-sort-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0948-sort-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2803-modify-graph-edge-weights) |
 ## Array
 |  |
@@ -125,6 +128,7 @@
 | [2035-count-sub-islands](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -155,6 +159,7 @@
 | [0567-permutation-in-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -329,6 +334,7 @@
 |  |
 | ------- |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Memoization
 |  |
 | ------- |
