@@ -75,6 +75,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1333-sort-the-jumbled-numbers) |
@@ -102,6 +104,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0948-sort-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -113,6 +116,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0859-design-circular-deque](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0859-design-circular-deque) |
 | [0921-spiral-matrix-iii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0948-sort-an-array) |
@@ -141,6 +145,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1256-rank-transform-of-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1256-rank-transform-of-an-array) |
@@ -370,6 +375,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Monotonic Stack
 |  |
 | ------- |
