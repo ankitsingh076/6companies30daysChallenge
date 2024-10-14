@@ -12,13 +12,12 @@ class Solution
             }
 
             long long score = 0;
-            while (k > 0)
+            while (k--)
             {
                 int x = pq.top();
                 pq.pop();
                 score += x;
                 pq.push(ceil(x / 3.0));
-                k--;
             }
 
             return score;
