@@ -81,6 +81,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Graph
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2803-modify-graph-edge-weights) |
 ## Array
 |  |
@@ -137,6 +139,7 @@
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
