@@ -4,19 +4,19 @@ class Solution
         long long minimumSteps(string s)
         {
             int n = s.length();
-            long long cnt_black = 0;
-            long long result = 0;
-            for (auto &it: s)
+            int curr_pos = 0;
+            int white_pos = 0;
+            long long swaps = 0;
+
+            while (curr_pos < n)
             {
-                if (it == '0')
-                {
-                    result += cnt_black;
+                if (s[curr_pos] == '0')
+                    {
+                        swaps += (curr_pos - white_pos);
+                        white_pos++;
+                    }
+                    curr_pos++;
                 }
-                else
-                {
-                    cnt_black++;
-                }
+                return swaps;
             }
-            return result;
-        }
-};
+        };
