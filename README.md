@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -279,6 +280,7 @@
 | [0539-minimum-time-difference](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0592-fraction-addition-and-subtraction) |
+| [0670-maximum-swap](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0670-maximum-swap) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
