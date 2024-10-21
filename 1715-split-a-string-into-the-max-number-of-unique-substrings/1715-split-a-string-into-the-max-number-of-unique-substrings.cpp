@@ -3,6 +3,11 @@ class Solution
     public:
         void solve(string &s, int index, int &max_count, int curr_count, unordered_set<string> &st)
         {
+            if (curr_count + (s.length() - index) <= max_count)
+            {
+                return;
+            }
+
             if (index == s.length())
             {
                 max_count = max(max_count, curr_count);
@@ -14,7 +19,7 @@ class Solution
                 if (st.find(str) == st.end())
                 {
                     st.insert(str);
-                    solve(s, j+1, max_count, curr_count + 1, st);
+                    solve(s, j + 1, max_count, curr_count + 1, st);
                     st.erase(str);
                 }
             }
