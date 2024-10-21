@@ -12,6 +12,7 @@ class Solution
         if (i == n)
         {
             maxi = max(maxi, curr);
+            return;
         }
 
         for (int j = i; j < n; j++)
