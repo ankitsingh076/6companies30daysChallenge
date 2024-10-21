@@ -1,37 +1,38 @@
 class Solution
 {
-    public:
-        void solve(string &s, int index, int &max_count, int curr_count, unordered_set<string> &st)
+    private:
+        int n;
+    void solve(string &s, int i, int curr, int &maxi, set<string> &st)
+    {
+        if (curr + (n - i) <= maxi)
         {
-            if (curr_count + (s.length() - index) <= max_count)
-            {
-                return;
-            }
-
-            if (index == s.length())
-            {
-                max_count = max(max_count, curr_count);
-            }
-
-            for (int j = index; j < s.length(); j++)
-            {
-                string str = s.substr(index, j - index + 1);
-                if (st.find(str) == st.end())
-                {
-                    st.insert(str);
-                    solve(s, j + 1, max_count, curr_count + 1, st);
-                    st.erase(str);
-                }
-            }
+            return;
         }
 
-    int maxUniqueSplit(string s)
-    {
-        unordered_set<string> st;
-        int max_count = 0;
-        int curr_count = 0;
-        solve(s, 0, max_count, curr_count, st);
+        if (i == n)
+        {
+            maxi = max(maxi, curr);
+        }
 
-        return max_count;
+        for (int j = i; j < n; j++)
+        {
+            string str = s.substr(i, j - i + 1);
+            if (st.find(str) == st.end())
+            {
+                st.insert(str);
+                solve(s, j + 1, curr + 1, maxi, st);
+                st.erase(str);
+            }
+        }
     }
+    public:
+        int maxUniqueSplit(string s)
+        {
+            n = s.length();
+            set<string> st;
+            int maxi = 0, curr = 0;
+            solve(s, 0, curr, maxi, st);
+
+            return maxi;
+        }
 };
