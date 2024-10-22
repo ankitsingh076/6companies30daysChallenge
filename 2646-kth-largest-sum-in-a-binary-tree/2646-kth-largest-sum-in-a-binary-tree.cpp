@@ -4,7 +4,7 @@ class Solution
         long long kthLargestLevelSum(TreeNode *root, int k)
         {
             long long result = 0;
-            priority_queue < long long > pq;
+            priority_queue < long long, vector < long long >, greater < long long>> pq;
             queue<TreeNode*> que;
             que.push(root);
             while (!que.empty())
@@ -27,15 +27,14 @@ class Solution
                     }
                 }
                 pq.push(sum);
+                if (pq.size() > k)
+                {
+                    pq.pop();
+                }
             }
 
             if (pq.size() < k) return -1;
 
-            while (k - 1 > 0)
-            {
-                pq.pop();
-                k--;
-            }
             return pq.top();
         }
 };
