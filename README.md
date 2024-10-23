@@ -165,6 +165,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -207,6 +208,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2035-count-sub-islands) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -225,6 +228,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String
 |  |
 | ------- |
@@ -337,6 +341,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2035-count-sub-islands) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
 |  |
 | ------- |
