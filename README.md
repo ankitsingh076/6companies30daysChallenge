@@ -132,6 +132,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1333-sort-the-jumbled-numbers) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -281,6 +282,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [1196-filling-bookcase-shelves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1196-filling-bookcase-shelves) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
 ## Math
 |  |
@@ -301,6 +303,7 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0921-spiral-matrix-iii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2035-count-sub-islands](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Design
