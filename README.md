@@ -105,6 +105,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -146,6 +147,7 @@
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -166,6 +168,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2502-sort-the-people](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -183,6 +186,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2586-longest-square-streak-in-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2586-longest-square-streak-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -283,6 +287,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [1196-filling-bookcase-shelves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1196-filling-bookcase-shelves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
 ## Math
 |  |
