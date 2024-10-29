@@ -150,6 +150,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -289,6 +290,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -311,6 +313,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2035-count-sub-islands](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Design
 |  |
 | ------- |
