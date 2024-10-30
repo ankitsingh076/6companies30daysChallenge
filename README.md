@@ -80,6 +80,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -136,6 +137,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1923-sentence-similarity-iii) |
 | [2035-count-sub-islands](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2035-count-sub-islands) |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2586-longest-square-streak-in-an-array) |
 ## Linked List
 |  |
@@ -288,6 +291,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [1196-filling-bookcase-shelves](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1196-filling-bookcase-shelves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ankitsingh076/6companies30daysChallenge/tree/master/2794-maximum-number-of-moves-in-a-grid) |
