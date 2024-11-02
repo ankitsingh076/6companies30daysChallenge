@@ -1,26 +1,20 @@
 class Solution
 {
     public:
-        bool isCircularSentence(string sentence)
+        bool isCircularSentence(string s)
         {
-            stringstream ss(sentence);
-            string token;
-            vector<string> words;
-            while (ss >> token)
-            {
-                words.push_back(token);
-            }
+            int n = s.length();
 
-            char last = words[words.size() - 1].back();
+            if (s[0] != s[n - 1]) return false;
 
-            for (int i = 0; i < words.size(); i++)
+            for (int i = 0; i < n; i++)
             {
-                if (words[i].front() != last)
+                if (s[i] == ' ' && s[i - 1] != s[i + 1])
                 {
                     return false;
                 }
-                last = words[i].back();
             }
+            
             return true;
         }
 };
